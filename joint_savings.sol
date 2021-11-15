@@ -46,7 +46,7 @@ contract JointSavings {
         Define a `require` statement that checks if the `recipient` is equal to either `accountOne` or `accountTwo`. The `requiere` statement returns the text `"You don't own this account!"` if it does not.
         */
         // YOUR CODE HERE!
-        require(recipient == accountOne||recipient == accountTwo, "You don't own this account!); 
+        require(recipient == accountOne||recipient == accountTwo, "You don't own this account!"); 
         //recipient.transfer(amount);
         //accountBalance = address(this).balance;
         
@@ -54,7 +54,7 @@ contract JointSavings {
         Define a `require` statement that checks if the `balance` is sufficient to accomplish the withdraw operation. If there are insufficient funds, the text `Insufficient funds!` is returned.
         */
         // YOUR CODE HERE!
-        require(accountBalance>lastWithdrawAmount), "Insufficient funds!";
+        require(contractBalance>lastWithdrawAmount, "Insufficient funds!");
         
 
         /*
@@ -68,17 +68,17 @@ contract JointSavings {
 
         // Call the `transfer` function of the `recipient` and pass it the `amount` to transfer as an argument.
         // YOUR CODE HERE!
-        recipient.transfer(amount)
+        recipient.transfer(amount);
 
         // Set  `lastWithdrawAmount` equal to `amount`
         // YOUR CODE HERE!
         
-        lastWithdrawAmount==amount
+        lastWithdrawAmount==amount;
 
         // Call the `contractBalance` variable and set it equal to the balance of the contract by using `address(this).balance` to reflect the new balance of the contract.
         // YOUR CODE HERE!
         
-        contractBalance = address(this).balance
+        contractBalance = address(this).balance;
     }
 
     // Define a `public payable` function named `deposit`.
@@ -98,13 +98,13 @@ contract JointSavings {
 
         // Set the values of `accountOne` and `accountTwo` to `account1` and `account2` respectively.
         // YOUR CODE HERE!
-         accountOne==account1
-         accountTwo==account2
+         accountOne==account1;
+         accountTwo==account2;
     }
 
     /*
     Finally, add the **default fallback function** so that your contract can store Ether sent from outside the deposit function.
     */
     // YOUR CODE HERE!
-    fallback () external payable {}
+    function() external payable {}
 }
