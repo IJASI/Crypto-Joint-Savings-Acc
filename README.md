@@ -12,21 +12,21 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 ![FrontEnd](/Images/contract_name_deploy.JPG)
 
-![Transactions_detail](/Images/deploy_metamask_Ganacheacc.JPG)
+![Transactions_detail](/images/deploy_metamask_Ganacheacc.JPG)
 
-![Transactions_detail](/Images/TRANS1A.JPG)
+![Transactions_detail](/images/TRANS1A.JPG)
 
-![Transactions_detail](/Images/TRANS1B.JPG)
+![Transactions_detail](/images/TRANS1B.JPG)
 
-![Transactions_detail](/Images/TRANS1C.JPG)
+![Transactions_detail](/images/TRANS1C.JPG)
 
-![Transactions_detail](/Images/TRANS2B.JPG)
+![Transactions_detail](/images/TRANS2B.JPG)
 
-![Transactions_detail](/Images/TRANS2C.JPG)
+![Transactions_detail](/images/TRANS2C.JPG)
 
-![Transactions_detail](/Images/TRANS3A.JPG)
+![Transactions_detail](/images/TRANS3A.JPG)
 
-![Transactions_detail](/Images/Ganache_TX.JPG)
+![Transactions_detail](/images/Ganache_TX.JPG)
 
 ## Demo
 
