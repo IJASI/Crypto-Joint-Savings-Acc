@@ -12,7 +12,7 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 Compile the completed code/file using the "0.5.5+commit.1d4f565a" compiler. 
 
-![FrontEnd](/images/Conpile.JPG)
+![FrontEnd](/images/Compile.JPG)
 
 Once in the deployment page you should see the name of your file on the contract box. 
 
