@@ -34,6 +34,8 @@ The [Ethereum Unit Converter]( https://eth-converter.com/) can be used in order 
 
 ![Transactions_detail](/images/TRANS1C.JPG)
 
+Once you are ready to initiate a transaction on the left side menu scroll down to the "Transact" box and click it. 
+
 ![Transactions_detail](/images/TRANS2B.JPG)
 
 ![Transactions_detail](/images/TRANS2C.JPG)git comm
