@@ -10,7 +10,7 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 ## Screenshots
 
-![FrontEnd](/Images/contract_name_deploy.JPG)
+![FrontEnd](/images/contract_name_deploy.JPG)
 
 ![Transactions_detail](/images/deploy_metamask_Ganacheacc.JPG)
 
@@ -22,7 +22,7 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 ![Transactions_detail](/images/TRANS2B.JPG)
 
-![Transactions_detail](/images/TRANS2C.JPG)
+![Transactions_detail](/images/TRANS2C.JPG)git comm
 
 ![Transactions_detail](/images/TRANS3A.JPG)
 
