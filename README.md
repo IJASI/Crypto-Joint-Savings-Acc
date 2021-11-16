@@ -28,7 +28,7 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 ![Transactions_detail](/images/Ganache_TX.JPG)
 
-## Demo
+## Demo Vid
 
 
 
