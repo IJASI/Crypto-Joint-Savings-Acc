@@ -22,9 +22,15 @@ Once you click deploy you should see your Metamask account pop up. You may then 
 
 ![Transactions_detail](/images/deploy_metamask_Ganacheacc.JPG)
 
+Once the contract is deployed you should be able to scroll down on the left side menu and enter the transaction value. 
+
 ![Transactions_detail](/images/TRANS1A.JPG)
 
+On the side menu you will be able to see information such as the contract balance, last to withdraw, etc. 
+
 ![Transactions_detail](/images/TRANS1B.JPG)
+
+The [Ethereum Unit Converter]( https://eth-converter.com/) can be used in order to update the correct Wei amount you intend to transact with. 
 
 ![Transactions_detail](/images/TRANS1C.JPG)
 
