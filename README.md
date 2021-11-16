@@ -38,13 +38,24 @@ Once you are ready to initiate a transaction on the left side menu scroll down t
 
 ![Transactions_detail](/images/TRANS2B.JPG)
 
+Once the transact button is clicked the MetaMask wallet extension will once again open this time it will show the balance on the account and the amount  of the transaction you are initiating.
 
 ![Transactions_detail](/images/TRANS3A.JPG)
+
+Please find below a sample of the tranaction hases made via the joint saving account contract. The trancations were in the folliwing denominations. 
+
+Transaction 1: Send 1 ether as wei.
+
+Transaction 2: Send 10 ether as wei.
+
+Transaction 3: Send 5 ether.
+
 
 ![Transactions_detail](/images/Ganache_TX.JPG)
 
 ## Demo
 
+If you still have any doubts please watch the following video demo.
 
 
 
