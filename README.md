@@ -38,7 +38,13 @@ Once you are ready to initiate a transaction on the left side menu scroll down t
 
 ![Transactions_detail](/images/TRANS2B.JPG)
 
+
+-----
+
 ![Transactions_detail](/images/TRANS2C.JPG)git comm
+
+
+-----
 
 ![Transactions_detail](/images/TRANS3A.JPG)
 
