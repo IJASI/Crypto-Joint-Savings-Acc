@@ -10,6 +10,12 @@ The code can be executed via the [Remix IDE website ](https://remix.ethereum.org
 
 ## Screenshots
 
+Compile the completed code/file using the "0.5.5+commit.1d4f565a" compiler. 
+
+![FrontEnd](/images/Conpile.JPG)
+
+Once in the deployment page you should see the name of your file on the contract box. 
+
 ![FrontEnd](/images/contract_name_deploy.JPG)
 
 ![Transactions_detail](/images/deploy_metamask_Ganacheacc.JPG)
