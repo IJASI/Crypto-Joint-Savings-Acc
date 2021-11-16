@@ -18,6 +18,8 @@ Once in the deployment page you should see the name of your file on the contract
 
 ![FrontEnd](/images/contract_name_deploy.JPG)
 
+Once you click deploy you should see your Metamask account pop up. You may then confirm the contract deployment. 
+
 ![Transactions_detail](/images/deploy_metamask_Ganacheacc.JPG)
 
 ![Transactions_detail](/images/TRANS1A.JPG)
